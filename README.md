@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nathan Vinícius Cruz Bezerra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanvinicius) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/nvinicius27) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/nvinicius) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathan.vinicius.cb@gmail.com)
 
 ---
@@ -34,15 +34,15 @@ I’m passionate about technology, data, and building solutions that optimize pr
 
 ## 📊 GitHub Stats  
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvinicius27&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvinicius27&layout=compact&theme=tokyonight)
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvinicius&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvinicius&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Let's Connect  
 📩 **Email**: [nathan.vinicius.cb@gmail.com](mailto:nathan.vinicius.cb@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/nathanvinicius](https://linkedin.com/in/nathanvinicius)  
-🐙 **GitHub**: [github.com/nvinicius27](https://github.com/nvinicius27)  
+🐙 **GitHub**: [github.com/nvinicius27](https://github.com/nvinicius)  
 
 ---
 
