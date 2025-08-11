@@ -42,7 +42,7 @@ I’m passionate about technology, data, and building solutions that optimize pr
 ## 🌐 Let's Connect  
 📩 **Email**: [nathan.vinicius.cb@gmail.com](mailto:nathan.vinicius.cb@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/nathanvinicius](https://linkedin.com/in/nathanvinicius)  
-🐙 **GitHub**: [github.com/nvinicius27](https://github.com/nvinicius)  
+🐙 **GitHub**: [github.com/nvinicius](https://github.com/nvinicius)  
 
 ---
 
