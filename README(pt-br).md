@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Nathan Vinícius Cruz Bezerra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanvinicius) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-vinicius27/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/nvinicius) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathan.vinicius.cb@gmail.com)
 
@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia, dados e por desenvolver soluções que otimizam p
 
 ## 🌐 Conecte-se Comigo  
 📩 **E-mail**: [nathan.vinicius.cb@gmail.com](mailto:nathan.vinicius.cb@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/nathanvinicius](https://linkedin.com/in/nathanvinicius)  
+🔗 **LinkedIn**: [linkedin.com/in/nathan-vinicius27](https://www.linkedin.com/in/nathan-vinicius27/)  
 🐙 **GitHub**: [github.com/nvinicius](https://github.com/nvinicius)  
 
 ---
